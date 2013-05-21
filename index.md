@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Mehmet Ali Yatbaz
+tagline: homepage
 ---
 {% include JB/setup %}
+This is an inline latex \\(2^2\\).
+This is an block rendering:
 
+\\[ \frac{1}{n^{2}} \\]
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
