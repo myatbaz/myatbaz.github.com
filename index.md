@@ -4,9 +4,9 @@ title: Mehmet Ali Yatbaz
 tagline: homepage
 ---
 {% include JB/setup %}
-Again testing
+### Again testing
 This is an inline latex \\(2^2\\).
-This is an block rendering:
+This is a block rendering:
 
 \\[ \frac{1}{n^{2}} \\]
 not working
