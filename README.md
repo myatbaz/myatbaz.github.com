@@ -1,4 +1,0 @@
-myatbaz.github.com
-==================
-
-Hmepage
